@@ -2,7 +2,7 @@
 void main()
 {
     int marks;
-    printf("Enter marks ");
+    printf("Enter marks: ");
     scanf("%d",&marks);
     if(marks<40)
     {
